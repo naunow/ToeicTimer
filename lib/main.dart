@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:toeictimer/constants.dart';
 import 'package:toeictimer/screens/part_one.dart';
+import 'package:toeictimer/size_config.dart';
 import 'package:toeictimer/theme.dart';
 
 void main() {
